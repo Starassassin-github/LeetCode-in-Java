@@ -1,2 +1,2 @@
 # LeetCode-in-Java
- Algorithms Coding Interview Queestiong
+ Algorithms Coding Interview Questions
